@@ -12,4 +12,4 @@ Consider the lack of cheating prevention to be a part of the social element of t
 - Computer opponent
 
 ## Building
-Navigate the the git cloned git folder and build with `cargo build --release`.
+Navigate to the cloned git folder and build with `cargo build --release`.
